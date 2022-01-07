@@ -75,9 +75,6 @@
 #commanders
 1 Delina, Wild Mage
 
-#sideboard
-1 Cursed Totem
-
 #considering
 1 Altar of Dementia
 1 Arcane Signet
