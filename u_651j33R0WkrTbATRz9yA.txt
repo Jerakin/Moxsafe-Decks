@@ -2,12 +2,10 @@
 1 Arcane Signet
 1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
 1 Blasphemous Act
-1 Bonus Round
-1 Burning Prophet
-1 Cathartic Pyre
 1 Chaos Warp
 1 Cursed Mirror
-24 Dragon's Approach
+1 Desperate Ritual
+25 Dragon's Approach
 1 End the Festivities
 1 Everflowing Chalice
 1 Fellwar Stone
@@ -25,7 +23,7 @@
 1 Locket of Yesterdays
 1 Mana Geyser
 1 Mind Stone
-28 Mountain
+27 Mountain
 1 Myriad Landscape
 1 Neheb, the Eternal
 1 Prismatic Lens
@@ -43,6 +41,8 @@
 1 Spellweaver Helix
 1 Spinerock Knoll
 1 Storm-Kiln Artist
+1 Thought Vessel
+1 Treasonous Ogre
 1 Underworld Breach
 1 Vandalblast
 1 Wayfarer's Bauble
@@ -52,9 +52,11 @@
 1 Syr Carah, the Bold
 
 #sideboard
+1 Bonus Round
+1 Burning Prophet
+1 Cathartic Pyre
 1 Cave-In
 1 Commander's Sphere
-1 Desperate Ritual
 1 Flame Rift
 1 Forked Bolt
 1 Price of Progress
